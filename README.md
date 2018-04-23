@@ -12,13 +12,13 @@ Panorama donde se podría usar:
 
 Forma de uso:
 Editar el .BAT tiene un apartado de configuracion
-::--------------------------------------------------------------------------------------
 
-Descripcion de campos:
-  -NUMERODEPROGRAMAS los programas que se encontrara vigilando desde 1 hasta 3 
-  -PROGRAMA, PROGRAMA2, PROGRAMA3 nombre del proceso en el administrador de tareas
-  -RUTAPROGRAMA, RUTAPROGRAMA2, RUTAPROGRAMA3 rutas del archivo que ejecutara si no encuentra su respectivo proceso
-  -RUTAPRINCIPAL Carpeta donde se guardara el archivo de logs
-  -RUTALOG ruta y nombre del archivo de logs
-  -SEGUNDOSCICLO cada cuanto se ejecutara un ciclo
+Descripcion de campos
+
+- NUMERODEPROGRAMAS los programas que se encontrara vigilando desde 1 hasta 3 
+- PROGRAMA, PROGRAMA2, PROGRAMA3 nombre del proceso en el administrador de tareas
+- RUTAPROGRAMA, RUTAPROGRAMA2, RUTAPROGRAMA3 rutas del archivo que ejecutara si no encuentra su respectivo proceso
+- RUTAPRINCIPAL Carpeta donde se guardara el archivo de logs
+- RUTALOG ruta y nombre del archivo de logs
+- SEGUNDOSCICLO cada cuanto se ejecutara un ciclo
 
